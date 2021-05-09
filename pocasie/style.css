@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 1em;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(188, 188, 228);
+  }
+  
+  * {
+    box-sizing: border-box;
+    border: 2;
+  }
+
+  .class1 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    background-color: white;
+    width: 468px;
+    height: 500px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+  }
